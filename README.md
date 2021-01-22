@@ -1,3 +1,3 @@
 # GCaMP
-DEPERCATED REPO
+DEFUNCT REPO
 MATLAB analysis scripts for GCaMP data
